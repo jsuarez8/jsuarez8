@@ -10,9 +10,7 @@
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Florida Gulf Coast University's Software Engineering Department
-  
   <br>
-
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
   
