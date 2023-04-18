@@ -25,11 +25,11 @@
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
 
 ## 🎵 Music apps I use
-<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
+<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://journal.classiccars.com/media/2020/03/podcast-apple-logo.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 623px; height: 127px; margin: 71px 0px; width: 352px;" alt="podcast-apple-logo | ClassicCars.com Journal" jsname="kn3ccd">
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecrusherr&theme=vue"/> <img src="https://journal.classiccars.com/media/2020/03/podcast-apple-logo.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 623px; height: 127px; margin: 71px 0px; width: 352px;" alt="podcast-apple-logo | ClassicCars.com Journal" jsname="kn3ccd">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecrusherr&theme=vue"/> 
 </p>
 
 
