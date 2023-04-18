@@ -4,12 +4,17 @@
   </a>
 </h1>
    
-###  <img src="./images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+###  <img src="./images/Developer.gif" alt="developer gif"  height="45px"> 💫 About Me:
 <p align="center">
   Hola, I am Jose Suarez! A pragmatic programmer from Miami, Flordia
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Florida Gulf Coast University's Software Engineering Department
+  😄 Pronouns: He/His
+  🌱 I’m currently learning more about Java and REST API.
+  💬 Ask me about any tech-related or sports related stuff.
+  📫 How to reach me: Check social links below.
+  ⚡ Fun fact: I spend almost 12 hours listening sports talk in the background.
   <br>
  </a>
  
