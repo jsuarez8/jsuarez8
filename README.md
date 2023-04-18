@@ -31,7 +31,15 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecrusherr&theme=vue"/>
 </p>
 
+
 ## 📟 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codecrusherr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
