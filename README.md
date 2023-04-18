@@ -10,6 +10,7 @@
   <br>
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Florida Gulf Coast University's Software Engineering Department
+  
   <br>
 
 
@@ -18,6 +19,6 @@
 <br>
 <p align="center">
 <a href="https://github.com/codecrusherr/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tscheschlog&hide=c%23,kvlang,Cython,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecrusherr&hide=c%23,kvlang,Cython,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </a>   
   
