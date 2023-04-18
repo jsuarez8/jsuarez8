@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning more about Java and REST API.
 - 💬 Ask me about any tech-related or sports related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening sports talk in the background.
+- ⚡ Fun fact: I spend almost 12 hours listening to sports talk in the background while working.
  
 ## 🌐 Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josesuarez8) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/j.suarezz8)
@@ -25,11 +25,11 @@
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
 
 ## 🎵 Music apps I use
-<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> 
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecrusherr&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codecrusherr&theme=vue"/> <img src="https://journal.classiccars.com/media/2020/03/podcast-apple-logo.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 623px; height: 127px; margin: 71px 0px; width: 352px;" alt="podcast-apple-logo | ClassicCars.com Journal" jsname="kn3ccd">
 </p>
 
 
