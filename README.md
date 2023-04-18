@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, I'm Jose Suarez! 
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Java.
