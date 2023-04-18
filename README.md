@@ -13,7 +13,9 @@
   
   <br>
 
-
+## 👨🏻‍💻 Laptop in use & Favorite Terminal
+<img src="https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
+  
 <hr>
 <h2 align="center">💹 Popular Languages 💹</h2>
 <br>
