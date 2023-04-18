@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/Apple%20Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white"/>
 
 ## 💳 Github Most Used Languages
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=codecrusherr&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/codecrusherr/github-readme-stats"/>
 
 
 
