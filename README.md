@@ -11,8 +11,9 @@
   <br>
   👨‍🎓 I'm currently studying for a Bachelor's degree in Florida Gulf Coast University's Software Engineering Department
   <br>
- ## 🌐 Socials
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/josesuarez8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josesuarez8/" height="30" width="40" /></a>
+ 
+## 🌐 Socials
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josesuarez8)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
