@@ -12,8 +12,6 @@
   👨‍🎓 I'm currently studying for a Bachelor's degree in Florida Gulf Coast University's Software Engineering Department
   <br>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=codecrusherr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 
 <hr>
 <h2 align="center">💹 Popular Languages 💹</h2>
