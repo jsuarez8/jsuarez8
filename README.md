@@ -4,6 +4,8 @@
   </a>
 </h1>
    
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codecrusherr&label=Views&color=blue&style=plastic&style=for-the-badge" alt="codecrusherr" /> </p>
+
 # 💫 About Me:
 - 👨‍🎓 I'm currently studying for a Bachelor's degree in Florida Gulf Coast University's Software Engineering Department
 - 😄 Pronouns: He/His
