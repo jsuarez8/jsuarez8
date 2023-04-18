@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white"/> 
 
 ## 🎵 Music apps I use
-<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://www.nicepng.com/png/detail/70-704093_itunes-listen-on-apple-podcast-logo-png.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 820px; height: 144px; margin: 62.5px 0px; width: 467px;" alt="Itunes - Listen On Apple Podcast Logo Png Transparent PNG - 1000x259 - Free  Download on NicePNG" jsname="kn3ccd" aria-hidden="false">
+<img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/Apple%20Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white"/>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
