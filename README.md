@@ -27,11 +27,6 @@
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/Apple%20Podcasts-9933CC?style=for-the-badge&logo=apple-podcasts&logoColor=white"/>
 
-## 💳 Github Most Used Languages
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/codecrusherr/github-readme-stats"/>
-
-
-
 ## 📟 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codecrusherr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
