@@ -28,7 +28,9 @@
 
 ## 📟 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=codecrusherr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/codecrusherr/">
+      <img width=325  src="https://github-readme-stats.vercel.app/api?username=codecrusherr" />
+ </a>
 </p>
 
 
