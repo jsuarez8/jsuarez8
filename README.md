@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 - 👨‍🎓 I'm currently studying for a Bachelor's degree in Florida Gulf Coast University's Software Engineering Department
-- 😄 Pronouns: He/His
+- 😄 Pronouns: he/him/his
 - 🌱 I’m currently learning more about Java and REST API.
 - 💬 Ask me about any tech-related or sports related stuff.
 - 📫 How to reach me: Check social links below.
