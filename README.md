@@ -29,7 +29,9 @@
 ## 📟 GitHub Stats
 <p align="center">
 <a href="https://github.com/codecrusherr/">
+  
       <img width=325  src="https://github-readme-stats.vercel.app/api?username=codecrusherr" />
+  
  </a>
 </p>
 
